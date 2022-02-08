@@ -3,6 +3,8 @@ import { Navigation, Hero, LatestNews, WorldNews, LocalNews, Footer } from "./co
 
 function App() {
   return (
+    // Add a className to each div
+    // Go the App.css and write the styles there
     <div>
       <Navigation/>
       <Hero/>
