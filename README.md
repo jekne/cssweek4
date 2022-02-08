@@ -1,4 +1,4 @@
-# Homepage template
+# Homepage template 🎨
 
 This is a simple homepage template to start a project quickly
 
