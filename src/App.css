@@ -1,0 +1,36 @@
+.mainContainer {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  /* height: 1200px; */
+}
+
+.navigation {
+  border-color: black;
+  border-style: solid;
+  display: flex;
+  justify-content: center;
+}
+.hero {
+  display: flex;
+  border-color: rgb(223, 27, 27);
+  border-style: solid;
+  justify-content: center;
+}
+
+.newsContainer {
+  display: flex;
+  border-color: black;
+  border-style: solid;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.footer {
+  display: flex;
+  border-color: black;
+  border-style: solid;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
